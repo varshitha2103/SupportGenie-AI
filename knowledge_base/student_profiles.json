@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Antonio Reed",
+    "email": "antonio.reed@example.com",
+    "student_id": "S1000",
+    "nationality": "Solomon Islands",
+    "visa_type": "F1",
+    "major": "Biology",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "I-20 Extension",
+        "status": "Submitted",
+        "date": "2025-03-05"
+      }
+    ]
+  },
+  {
+    "name": "Casey Gallegos",
+    "email": "casey.gallegos@example.com",
+    "student_id": "S1001",
+    "nationality": "Belgium",
+    "visa_type": "F1",
+    "major": "Computer Science",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "CPT Request",
+        "status": "Submitted",
+        "date": "2025-03-17"
+      }
+    ]
+  },
+  {
+    "name": "Dennis Cole",
+    "email": "dennis.cole@example.com",
+    "student_id": "S1002",
+    "nationality": "Isle of Man",
+    "visa_type": "F1",
+    "major": "Business Analytics",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "CPT Request",
+        "status": "Submitted",
+        "date": "2025-03-08"
+      }
+    ]
+  },
+  {
+    "name": "Margaret Hill",
+    "email": "margaret.hill@example.com",
+    "student_id": "S1003",
+    "nationality": "Czech Republic",
+    "visa_type": "F1",
+    "major": "Biology",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "OPT Application",
+        "status": "Submitted",
+        "date": "2025-02-05"
+      }
+    ]
+  },
+  {
+    "name": "Joyce Smith",
+    "email": "joyce.smith@example.com",
+    "student_id": "S1004",
+    "nationality": "South Georgia and the South Sandwich Islands",
+    "visa_type": "F1",
+    "major": "Cybersecurity",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "OPT Application",
+        "status": "Submitted",
+        "date": "2025-03-16"
+      }
+    ]
+  },
+  {
+    "name": "Brian Ortiz",
+    "email": "brian.ortiz@example.com",
+    "student_id": "S1005",
+    "nationality": "Netherlands",
+    "visa_type": "F1",
+    "major": "Data Science",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "Travel Signature",
+        "status": "Submitted",
+        "date": "2025-03-04"
+      }
+    ]
+  },
+  {
+    "name": "John Davila",
+    "email": "john.davila@example.com",
+    "student_id": "S1006",
+    "nationality": "Maldives",
+    "visa_type": "F1",
+    "major": "Data Science",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "I-20 Extension",
+        "status": "Submitted",
+        "date": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "name": "Anthony Lam",
+    "email": "anthony.lam@example.com",
+    "student_id": "S1007",
+    "nationality": "Lebanon",
+    "visa_type": "F1",
+    "major": "Computer Science",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "CPT Request",
+        "status": "Submitted",
+        "date": "2025-02-15"
+      }
+    ]
+  },
+  {
+    "name": "Patrick David",
+    "email": "patrick.david@example.com",
+    "student_id": "S1008",
+    "nationality": "Nigeria",
+    "visa_type": "F1",
+    "major": "Data Science",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "Visa Renewal",
+        "status": "Submitted",
+        "date": "2025-02-21"
+      }
+    ]
+  },
+  {
+    "name": "Rachael Anderson",
+    "email": "rachael.anderson@example.com",
+    "student_id": "S1009",
+    "nationality": "Myanmar",
+    "visa_type": "F1",
+    "major": "Biology",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "OPT Application",
+        "status": "Submitted",
+        "date": "2025-02-15"
+      }
+    ]
+  },
+  {
+    "name": "Jose Robbins",
+    "email": "jose.robbins@example.com",
+    "student_id": "S1010",
+    "nationality": "Eritrea",
+    "visa_type": "F1",
+    "major": "Data Science",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "OPT Application",
+        "status": "Submitted",
+        "date": "2025-02-22"
+      }
+    ]
+  },
+  {
+    "name": "Melissa Hopkins",
+    "email": "melissa.hopkins@example.com",
+    "student_id": "S1011",
+    "nationality": "Montenegro",
+    "visa_type": "F1",
+    "major": "Biology",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "CPT Request",
+        "status": "Submitted",
+        "date": "2025-03-02"
+      }
+    ]
+  },
+  {
+    "name": "Teresa Young",
+    "email": "teresa.young@example.com",
+    "student_id": "S1012",
+    "nationality": "Madagascar",
+    "visa_type": "F1",
+    "major": "Computer Science",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "Travel Signature",
+        "status": "Submitted",
+        "date": "2025-03-10"
+      }
+    ]
+  },
+  {
+    "name": "Joshua Mcbride",
+    "email": "joshua.mcbride@example.com",
+    "student_id": "S1013",
+    "nationality": "San Marino",
+    "visa_type": "F1",
+    "major": "Biology",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "CPT Request",
+        "status": "Submitted",
+        "date": "2025-02-08"
+      }
+    ]
+  },
+  {
+    "name": "Calvin Salas",
+    "email": "calvin.salas@example.com",
+    "student_id": "S1014",
+    "nationality": "New Zealand",
+    "visa_type": "F1",
+    "major": "Cybersecurity",
+    "academic_status": "Full-time",
+    "requests": [
+      {
+        "type": "CPT Request",
+        "status": "Submitted",
+        "date": "2025-03-31"
+      }
+    ]
+  }
+]

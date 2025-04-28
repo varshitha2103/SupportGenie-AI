@@ -1,0 +1,54 @@
+[UI]
+# Custom app name and description
+name = "UMBC ISSS Assistant"
+description = "Get answers to your questions about international student services at UMBC"
+theme = "light"
+custom_js = "/public/script.js"
+
+# Hide Chainlit branding
+hide_cot = true
+hide_footer = true
+hide_chainlit_link = true
+login_page_image = "/public/image.png"  # Add your UMBC logo file to the public folder
+#custom_logo = "/public/logo_dark.png"  # Add your UMBC logo file to the public folder
+
+[project]
+# Whether to enable telemetry
+enable_telemetry = false
+
+# Session configuration
+session_timeout = 3600
+user_session_timeout = 1296000  # 15 days
+
+# Security settings
+allow_origins = ["*"]
+cache = false
+
+[features]
+# Enable message reactions
+message_reactions = true
+
+# Enable streaming
+streaming = true
+
+# UI features
+user_message_autoscroll = true
+edit_message = true
+latex = false
+unsafe_allow_html = false
+
+# Disable Chain of Thought display
+cot = "hidden"
+
+# File upload settings
+[features.spontaneous_file_upload]
+enabled = true
+accept = ["*/*"]
+max_files = 20
+max_size_mb = 500
+
+# Optional metadata
+[meta]
+generated_by = "2.5.5"
+title = "UMBC ISSS Assistant"
+description = "International Student and Scholar Services Assistant for UMBC"
